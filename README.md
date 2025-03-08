@@ -6,7 +6,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> &nbsp; **About Me**
 
-I am Muhammad Salman, a **Data Scientist** with hands-on experience in AI, machine learning, NLP, SQL, and database development. I excel at building robust, data-driven solutions—ranging from large-scale data processing with Hadoop and Kafka to web application deployment on AWS and Azure. 
+I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine learning, NLP, SQL, and database development. I excel at building robust, data-driven solutions, ranging from large-scale data processing with Hadoop and Kafka to web application deployment on AWS and Azure. 
 
 - **Education:** B.S. in Data Science at FAST Nuces  
 - **Experience:** Former AI Engineer Intern at Aim Lab (Islamabad), where I led a team to develop an advanced email template generation system using Gemini API and Stable Diffusion.  
