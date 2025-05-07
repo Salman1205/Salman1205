@@ -55,7 +55,7 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; **Featured Projects**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-1.**[MailFusion – Create, Edit, and Elevate Email Templates](https://github.com/Salman1205/MailFusion-Create-Edit-and-Elevate-Email-Templates)**  
+1. **[MailFusion – Create, Edit, and Elevate Email Templates](https://github.com/Salman1205/MailFusion-Create-Edit-and-Elevate-Email-Templates)**  
    - **Tech:** React.js, Gemini API, Unsplash  
    - **Description:** A React-based application that streamlines email template creation and management. Leverages AI text generation (Gemini) and image generation (Unsplash) for dynamic, customizable templates.
 
