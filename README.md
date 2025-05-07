@@ -55,29 +55,29 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; **Featured Projects**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-1. **[Naive Search Engine – Hadoop MapReduce](https://github.com/Salman1205/Naive-Search-Engine-Utilising-MapReduce-Technology)**  
-   - **Tech:** Python, NLP, Apache Hadoop  
-   - **Description:** Implements a large-scale search engine using Hadoop MapReduce for efficient data preprocessing, TF-IDF calculations, and similarity scoring.
-
-2. **[Apache-Kafka](https://github.com/Salman1205/Apache-Kafka)**  
-   - **Tech:** Python, Apache Kafka  
-   - **Description:** Scripts for data processing with JSON data preprocessed and sent to Kafka. The consumer applies Apriori, PCY, and SON algorithms, then stores the results for further analysis.
-
-3. **[Music Recommendation System](https://github.com/Salman1205/Music-Recommendation-System)**  
-   - **Tech:** Python, MongoDB, Flask, TensorFlow  
-   - **Description:** Identifies similar songs based on extracted audio features. Integrates lyrics extraction via speech recognition and uses MongoDB for data storage.
-
-4. **[MailFusion – Create, Edit, and Elevate Email Templates](https://github.com/Salman1205/MailFusion-Create-Edit-and-Elevate-Email-Templates)**  
+1.**[MailFusion – Create, Edit, and Elevate Email Templates](https://github.com/Salman1205/MailFusion-Create-Edit-and-Elevate-Email-Templates)**  
    - **Tech:** React.js, Gemini API, Unsplash  
    - **Description:** A React-based application that streamlines email template creation and management. Leverages AI text generation (Gemini) and image generation (Unsplash) for dynamic, customizable templates.
+
+2. **[Electric Load Forecasting](https://github.com/Salman1205/Electric-load-forecasting)**  
+   - **Tech:** Python, React, scikit-learn, pandas  
+   - **Description:** Predicts future electricity demand using advanced preprocessing, clustering, and forecasting models. Features an interactive React dashboard for visualization and data-driven energy management.
+
+3. **[Cold Email Generator using LangChain](https://github.com/Salman1205/cold-email-generator-using-llangchain)**  
+   - **Tech:** Python, LangChain, Streamlit, Chromadb  
+   - **Description:** Automates personalized cold email creation based on job descriptions. Extracts requirements, matches them with portfolio links, and crafts contextually relevant emails.
+
+4. **[Metro Near Real-Time Data Warehouse](https://github.com/Salman1205/Metro-Near-Real-Time-Data-Warehouse)**  
+    - **Tech:** Java, SQL, MySQL, Eclipse  
+    - **Description:** Implements a near real-time data warehouse using Java for ETL and SQL for database setup and OLAP analysis. Features master and transactional data loading, star schema design, and advanced analytics with OLAP          queries for actionable business insights.
 
 5. **[TB-Dashboard](https://github.com/Salman1205/TB-Dashboard)**  
    - **Tech:** HTML, CSS, JavaScript, D3.js  
    - **Description:** An interactive data visualization platform featuring timelines, treemaps, and maps. Offers sorting, filtering, and highlighting for deeper insights into TB-related data.
 
-6. **[Cold Email Generator using LangChain](https://github.com/Salman1205/cold-email-generator-using-llangchain)**  
-   - **Tech:** Python, LangChain, Streamlit, Chromadb  
-   - **Description:** Automates personalized cold email creation based on job descriptions. Extracts requirements, matches them with portfolio links, and crafts contextually relevant emails.
+6. **[Music Recommendation System](https://github.com/Salman1205/Music-Recommendation-System)**  
+   - **Tech:** Python, MongoDB, Flask, TensorFlow  
+   - **Description:** Identifies similar songs based on extracted audio features. Integrates lyrics extraction via speech recognition and uses MongoDB for data storage.
 
 <br>
 
