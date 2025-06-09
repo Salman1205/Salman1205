@@ -77,7 +77,7 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
 
 6. **[Music Recommendation System](https://github.com/Salman1205/Music-Recommendation-System)**  
    - **Tech:** Python, MongoDB, Flask, TensorFlow  
-   - **Description:** Identifies similar songs based on extracted audio features.
+   - **Description:** Identifies similar songs based on extracted audio features. Integrates lyrics extraction via speech recognition and uses MongoDB for data storage.
 
 <br>
 
