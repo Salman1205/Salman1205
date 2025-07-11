@@ -78,6 +78,9 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
 6. **[Music Recommendation System](https://github.com/Salman1205/Music-Recommendation-System)**  
    - **Tech:** Python, MongoDB, Flask, TensorFlow  
    - **Description:** Identifies similar songs based on extracted audio features. Integrates lyrics extraction via speech recognition and uses MongoDB for data storage.
+7.**[M-bot-Therapy Bot](https://github.com/Salman1205/M-bot)**
+   - **Tech:** Python, Flask, React.js, SQLite, SQLAlchemy, NLP, PWA
+   - **Description:** An AI-powered therapy bot providing personalized mental health support and emotional guidance. Features real-time conversational AI, secure patient data management, and progressive web app capabilities for accessible mental wellness support.
 
 <br>
 
