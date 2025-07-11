@@ -93,7 +93,7 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
     <tr>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Salman1205&theme=nightowl&show_icons=true&count_private=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman1205&theme=nightowl&hide_border=false" alt="Salman1205 streak" />
+        <img src="https://streak-stats.demolab.com?user=Salman1205&theme=nightowl&hide_border=false" alt="Salman1205 streak" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Salman1205&theme=nightowl&hide_border=false&langs_count=10" />
@@ -107,7 +107,7 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
 <!-- Visitor Counter -->
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-  <img alt="visitor counter" src="https://profile-counter.glitch.me/Salman1205/count.svg">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Salman1205&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 
