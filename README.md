@@ -68,8 +68,8 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
    - **Description:** Automates personalized cold email creation based on job descriptions. Extracts requirements, matches them with portfolio links, and crafts contextually relevant emails.
 
 4. **[Metro Near Real-Time Data Warehouse](https://github.com/Salman1205/Metro-Near-Real-Time-Data-Warehouse)**  
-    - **Tech:** Java, SQL, MySQL, Eclipse  
-    - **Description:** Implements a near real-time data warehouse using Java for ETL and SQL for database setup and OLAP analysis. Features master and transactional data loading, star schema design, and advanced analytics with OLAP          queries for actionable business insights.
+   - **Tech:** Java, SQL, MySQL, Eclipse  
+   - **Description:** Implements a near real-time data warehouse using Java for ETL and SQL for database setup and OLAP analysis. Features master and transactional data loading, star schema design, and advanced analytics with OLAP queries for actionable business insights.
 
 5. **[TB-Dashboard](https://github.com/Salman1205/TB-Dashboard)**  
    - **Tech:** HTML, CSS, JavaScript, D3.js  
@@ -78,8 +78,9 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
 6. **[Music Recommendation System](https://github.com/Salman1205/Music-Recommendation-System)**  
    - **Tech:** Python, MongoDB, Flask, TensorFlow  
    - **Description:** Identifies similar songs based on extracted audio features. Integrates lyrics extraction via speech recognition and uses MongoDB for data storage.
-7.**[M-bot-Therapy Bot](https://github.com/Salman1205/M-bot)**
-   - **Tech:** Python, Flask, React.js, SQLite, SQLAlchemy, NLP, PWA
+
+7. **[M-bot – Therapy Bot](https://github.com/Salman1205/M-bot-AI-Therapy-bot)**  
+   - **Tech:** Python, Flask, React.js, SQLite, SQLAlchemy, NLP, PWA  
    - **Description:** An AI-powered therapy bot providing personalized mental health support and emotional guidance. Features real-time conversational AI, secure patient data management, and progressive web app capabilities for accessible mental wellness support.
 
 <br>
@@ -91,11 +92,11 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
   <table align="center">
     <tr>
       <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Salman1205&theme=nightowl&show_icons=true&count_private=true" />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman1205&theme=nightowl&hide_border=false" alt="Salman1205 streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Salman1205&theme=nightowl&show_icons=true&count_private=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman1205&theme=nightowl&hide_border=false" alt="Salman1205 streak" />
       </td>
       <td width="50%" align="center">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Salman1205&theme=nightowl&hide_border=false&langs_count=10"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Salman1205&theme=nightowl&hide_border=false&langs_count=10" />
       </td>
     </tr>
   </table>
