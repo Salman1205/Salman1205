@@ -1,93 +1,89 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# Hi there, I'm [Salman1205](https://github.com/Salman1205) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-<br>
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"> &nbsp; **About Me**
-
-I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine learning, NLP, SQL, and database development. I excel at building robust, data-driven solutions, ranging from large-scale data processing with Hadoop and Kafka to web application deployment on AWS and Azure. 
-
-- **Education:** B.S. in Data Science at FAST Nuces  
-- **Experience:** Former AI Engineer Intern at Aim Lab (Islamabad), where I led a team to develop an advanced email template generation system using Gemini API and Stable Diffusion.  
-- **Focus Areas:** Machine Learning, Data Engineering, Cloud Deployments, and Full-Stack Development.
-
-<br>
-
-<!-- Profile Trophies -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Salman1205&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Profile Trophies" width="84%" />
-  </a>
-</div>
-
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:muhammad.salman1205@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-salman-732291247/">
-    <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Muhammad+Salman+%F0%9F%91%8B;AI+%2F+ML+Engineer;I+build+things+that+actually+ship." alt="Typing SVG" />
 </div>
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> &nbsp; **Skills**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+</div>
 
-###### **Languages & Tools**  
+<br>
+
+---
+
+### 🧠 About Me
+
+I'm an AI/ML Engineer based in Islamabad, Pakistan, currently in my final semester of B.S. Data Science at FAST NUCES.
+
+Over the past year I've been working professionally -- building RAG-based systems, deploying LLM-integrated tools in production, and automating real business workflows. I care about building things that actually solve problems, not just demos.
+
+- 🏢 **AI Engineer @ TIG Technologies** -- building internal AI tools to cut operational costs
+- 🏢 **AI Engineer @ Anviro** -- shipped RAG chatbots handling real customer queries
+- 🎓 **FAST NUCES** -- B.S. Data Science (2022 - 2026)
+- 🏆 **ICPC Asia Topi Regional** -- Ranked 134th out of 2000+ teams
+- 📍 Islamabad, Pakistan
+
+---
+
+### 🚀 What I'm Working With
+
+**AI & LLMs**
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00FFB2?style=for-the-badge&logo=databricks&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**ML & Data**
 
-<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; **Featured Projects**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Infra & Cloud**
 
-1. **[MailFusion – Create, Edit, and Elevate Email Templates](https://github.com/Salman1205/MailFusion-Create-Edit-and-Elevate-Email-Templates)**  
-   - **Tech:** React.js, Gemini API, Unsplash  
-   - **Description:** A React-based application that streamlines email template creation and management. Leverages AI text generation (Gemini) and image generation (Unsplash) for dynamic, customizable templates.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-2. **[Electric Load Forecasting](https://github.com/Salman1205/Electric-load-forecasting)**  
-   - **Tech:** Python, React, scikit-learn, pandas  
-   - **Description:** Predicts future electricity demand using advanced preprocessing, clustering, and forecasting models. Features an interactive React dashboard for visualization and data-driven energy management.
+**Databases**
 
-3. **[Cold Email Generator using LangChain](https://github.com/Salman1205/cold-email-generator-using-llangchain)**  
-   - **Tech:** Python, LangChain, Streamlit, Chromadb  
-   - **Description:** Automates personalized cold email creation based on job descriptions. Extracts requirements, matches them with portfolio links, and crafts contextually relevant emails.
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-4. **[Metro Near Real-Time Data Warehouse](https://github.com/Salman1205/Metro-Near-Real-Time-Data-Warehouse)**  
-   - **Tech:** Java, SQL, MySQL, Eclipse  
-   - **Description:** Implements a near real-time data warehouse using Java for ETL and SQL for database setup and OLAP analysis. Features master and transactional data loading, star schema design, and advanced analytics with OLAP queries for actionable business insights.
+**Web & Frontend**
 
-5. **[TB-Dashboard](https://github.com/Salman1205/TB-Dashboard)**  
-   - **Tech:** HTML, CSS, JavaScript, D3.js  
-   - **Description:** An interactive data visualization platform featuring timelines, treemaps, and maps. Offers sorting, filtering, and highlighting for deeper insights into TB-related data.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-6. **[Music Recommendation System](https://github.com/Salman1205/Music-Recommendation-System)**  
-   - **Tech:** Python, MongoDB, Flask, TensorFlow  
-   - **Description:** Identifies similar songs based on extracted audio features. Integrates lyrics extraction via speech recognition and uses MongoDB for data storage.
+---
 
-7. **[M-bot – Therapy Bot](https://github.com/Salman1205/M-bot-AI-Therapy-bot)**  
-   - **Tech:** Python, Flask, React.js, SQLite, SQLAlchemy, NLP, PWA  
-   - **Description:** An AI-powered therapy bot providing personalized mental health support and emotional guidance. Features real-time conversational AI, secure patient data management, and progressive web app capabilities for accessible mental wellness support.
+### 🔨 Featured Projects
 
-<br>
+| Project | What it does | Stack |
+|---|---|---|
+| [**MailAssist**](https://github.com/Salman1205/MailAssist) | Full-stack AI customer support platform. RAG pipeline, Shopify integration, analytics dashboard | Next.js, TypeScript, Supabase, OpenAI |
+| [**Siamese Legal Clause Similarity**](https://github.com/Salman1205/siamese-legal-clause-similarity) | 99.98% accuracy on 295K+ legal clause pairs using BiLSTM + CNN-Attention. No pre-trained transformers | PyTorch, BiLSTM, CNN |
+| [**GNN Patient Triage**](https://github.com/Salman1205/GNN-patient-triage) | GraphSAGE for emergency patient triage. Reproduces a Nature paper end-to-end | PyTorch Geometric, GraphSAGE |
+| [**MLOps Pipeline**](https://github.com/Salman1205/mlops-titanic-airflow-mlflow) | End-to-end ML pipeline with Airflow orchestration and MLflow experiment tracking | Airflow, MLflow, scikit-learn |
+| [**Intrusion Detection (SDN)**](https://github.com/Salman1205/Intrusion-detection-in-SDN-using-Deep-Learning) | BiLSTM + Attention CNN for network intrusion detection with SHAP explainability | PyTorch, BiLSTM, SHAP |
+| [**Electric Load Forecasting**](https://github.com/Salman1205/Electric-load-forecasting) | Predicts electricity demand using time series + clustering. React dashboard for visualization | Python, scikit-learn, React |
+| [**Cold Email Generator**](https://github.com/Salman1205/cold-email-generator-using-llangchain) | Automates personalized cold emails using LangChain + ChromaDB | LangChain, Streamlit, ChromaDB |
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; **GitHub Stats**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <table align="center">
@@ -103,16 +99,22 @@ I am Muhammad Salman, a Data Scientist with hands-on experience in AI, machine l
   </table>
 </p>
 
-<br>
+---
 
-<!-- Visitor Counter -->
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Salman1205&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:muhammad.salman1205@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/salman1205/">
+    <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
+  </a>
+  <a href="https://muhammadsalman1205.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </div>
 
-<br>
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
