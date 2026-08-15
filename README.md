@@ -4,9 +4,9 @@ AI/ML Engineer building production-grade intelligent systems — from graph neur
 
 I work across the full ML stack: training deep learning models, engineering data pipelines, and shipping AI-powered products. My focus areas are LLM-based agents, retrieval-augmented generation, and applied deep learning for real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Salman1205)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://salman-ahmed.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammad.salman1205@gmail.com)
 
 ---
 
